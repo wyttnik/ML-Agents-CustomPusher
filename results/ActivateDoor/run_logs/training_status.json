@@ -1,0 +1,47 @@
+{
+    "SoloPusher": {
+        "checkpoints": [
+            {
+                "steps": 499979,
+                "file_path": "results\\ActivateDoor\\SoloPusher\\SoloPusher-499979.onnx",
+                "reward": null,
+                "creation_time": 1703677137.4533463,
+                "auxillary_file_paths": [
+                    "results\\ActivateDoor\\SoloPusher\\SoloPusher-499979.pt"
+                ]
+            },
+            {
+                "steps": 999993,
+                "file_path": "results\\ActivateDoor\\SoloPusher\\SoloPusher-999993.onnx",
+                "reward": 5.784904480304407,
+                "creation_time": 1703680011.1449442,
+                "auxillary_file_paths": [
+                    "results\\ActivateDoor\\SoloPusher\\SoloPusher-999993.pt"
+                ]
+            },
+            {
+                "steps": 1230524,
+                "file_path": "results\\ActivateDoor\\SoloPusher\\SoloPusher-1230524.onnx",
+                "reward": 5.457399845123291,
+                "creation_time": 1703681420.1421108,
+                "auxillary_file_paths": [
+                    "results\\ActivateDoor\\SoloPusher\\SoloPusher-1230524.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1230524,
+            "file_path": "results\\ActivateDoor\\SoloPusher.onnx",
+            "reward": 5.457399845123291,
+            "creation_time": 1703681420.1421108,
+            "auxillary_file_paths": [
+                "results\\ActivateDoor\\SoloPusher\\SoloPusher-1230524.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.1+cu121"
+    }
+}

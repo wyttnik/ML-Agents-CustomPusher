@@ -1,0 +1,38 @@
+{
+    "SoloPusher": {
+        "checkpoints": [
+            {
+                "steps": 499952,
+                "file_path": "results\\PusherDoorObstacles\\SoloPusher\\SoloPusher-499952.onnx",
+                "reward": 2.046200020238757,
+                "creation_time": 1703733893.7237763,
+                "auxillary_file_paths": [
+                    "results\\PusherDoorObstacles\\SoloPusher\\SoloPusher-499952.pt"
+                ]
+            },
+            {
+                "steps": 729143,
+                "file_path": "results\\PusherDoorObstacles\\SoloPusher\\SoloPusher-729143.onnx",
+                "reward": 5.950700134038925,
+                "creation_time": 1703735147.3089478,
+                "auxillary_file_paths": [
+                    "results\\PusherDoorObstacles\\SoloPusher\\SoloPusher-729143.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 729143,
+            "file_path": "results\\PusherDoorObstacles\\SoloPusher.onnx",
+            "reward": 5.950700134038925,
+            "creation_time": 1703735147.3089478,
+            "auxillary_file_paths": [
+                "results\\PusherDoorObstacles\\SoloPusher\\SoloPusher-729143.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.1+cu121"
+    }
+}
